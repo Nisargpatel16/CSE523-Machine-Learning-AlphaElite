@@ -39,5 +39,5 @@
 
 ## Contributors
 
-| [Nisarg Patel](https://github.com/parth-27)                                                                                                            
+| [Nisarg Patel](https://github.com/Nisargpatel16)                                                                                                            
 | [Shivam Lakhtariya](https://github.com/shivamlakhtariya)
