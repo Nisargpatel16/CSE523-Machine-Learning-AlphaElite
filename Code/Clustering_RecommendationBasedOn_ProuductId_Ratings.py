@@ -43,7 +43,7 @@ Y3=X2[X2.cluster==2]
 Y4=X2[X2.cluster==3]
 Y5=X2[X2.cluster==4]
 
-#Assigns a particular color to each color.
+#Assigns a particular color to each cluster.
 plt.scatter(Y1.Product_Id,Y1['Ratings'], color='green')
 plt.scatter(Y2.Product_Id,Y2['Ratings'], color='red')
 plt.scatter(Y3.Product_Id,Y3['Ratings'], color='blue')
