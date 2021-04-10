@@ -28,7 +28,7 @@
 
 ## E-commerce 
 # K means from scratch
-![GitHub Logo] <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/scratch.JPG" width="300" height="300">
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/scratch.JPG" width="300" height="300">
  
 # Clusters defined based on a rating given by users
 ![GitHub Logo]("https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/ratingwithproductidcluster.JPG" width="300" height="300" )
