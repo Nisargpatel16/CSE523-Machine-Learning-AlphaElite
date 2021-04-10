@@ -31,13 +31,13 @@
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/scratch.JPG" width="500" height="500">
  
 # Clusters defined based on a rating given by users
-<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/ratingwithproductidcluster.JPG" width="500" height="500">
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/ratingwithproductidcluster.JPG" width="700" height="500">
 
 # Jaccard similarity
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/jaccard.png" width="500" height="500">
 
 # Cosine similarity
-<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/cosine.png" width="500" height="500">
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/cosine.png" width="500" height="300">
 
 ## Contributors
 
