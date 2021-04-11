@@ -32,7 +32,7 @@ Here we have designed a product recommendation system which can provide appropri
 
 ## Features / Screenshots
 
-# Cosine similarity
+# Elbow Method for optimal value of K
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/TextBasedCLustering_OnProductDescription/2.PNG" width="500" height="500">
 
 # K means from scratch
