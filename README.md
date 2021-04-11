@@ -36,7 +36,7 @@ Here we have designed a product recommendation system which can provide appropri
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/TextBasedCLustering_OnProductDescription/2.PNG" width="500" height="500">
 
 # K means from scratch
-<img src="Results/TextBasedCLustering_OnProductDescription/1.PNG" width="500" height="500">
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/TextBasedCLustering_OnProductDescription/scratch.JPG" width="500" height="500">
 
 # Clusters defined based on a rating given by users
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/CLustering_ProductID_Ratings/1.PNG" width="650" height="400">
