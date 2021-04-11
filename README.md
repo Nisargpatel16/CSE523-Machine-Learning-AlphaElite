@@ -62,7 +62,7 @@ Here we have designed a product recommendation system which can provide appropri
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/TextBasedCLustering_OnProductDescription/4.PNG" width="300" height="200">
 
 # Combined output with cosine + Jaccard 
-<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/Similarity/average.JPG" width="400" height="200">
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/Similarity/average.JPG" width="500" height="300">
 
 
 ## Contributors
