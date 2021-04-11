@@ -58,6 +58,9 @@ Here we have designed a product recommendation system which can provide appropri
 # Clusters 
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/TextBasedCLustering_OnProductDescription/3.PNG" width="200" height="400">
 
+# Cluster's output 
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/TextBasedCLustering_OnProductDescription/4.PNG" width="300" height="200">
+
 
 
 ## Contributors
