@@ -66,6 +66,9 @@ Here we have designed a product recommendation system which can provide appropri
 # Cluster's output 
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/TextBasedCLustering_OnProductDescription/4.PNG" width="300" height="200">
 
+# Combined system Cosine similarity + Jaccard similarity 
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/Similarity/average.JPG" width="400" height="200">
+
 
 
 ## Contributors
