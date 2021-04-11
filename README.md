@@ -12,7 +12,7 @@
 - Contributors
 
 
-## Content
+## Algorithm
 - Clustering
 - Cosine Similarity
 - Jaccard Similarity
