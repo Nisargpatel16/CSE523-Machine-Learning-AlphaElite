@@ -35,7 +35,7 @@ Here we have designed a product recommendation system which can provide appropri
 <img src="Results/TextBasedCLustering_OnProductDescription/1.PNG">
  
 # Clusters defined based on a rating given by users
-<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/ratingwithproductidcluster.JPG" width="700" height="500">
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/CLustering_ProductID_Ratings/1.PNG" width="700" height="500">
 
 # Jaccard similarity
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/Similarity/jaccard.png" width="500" height="500">
