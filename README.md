@@ -1,9 +1,9 @@
 # CSE523-Machine-Learning-AlphaElite
 
-# Product Recommendation System
+## Product Recommendation System
 
 
-# Table Content
+## Table Content
 - Clustering
 - Cosine Similarity
 - Jaccard Similarity
