@@ -16,9 +16,10 @@ Recommendation systems enable users to access products that they may not be awar
 
 Here we have designed a product recommendation system which can provide appropriate suggestions to the customers while buying another products. We are designing the system such that it suggests the item based on the ratings of all the other items and also according to their purchase history.It helps the users to make a right choice and also it makes the content more personalised.
 
-## Technology Stack - Algorithms
+## Technology Stack/Algorithms
 
--kmeans
+- Jaccars dimilarity
+-  kmeans
 - Cosine similarity
 
 ## Libraries
