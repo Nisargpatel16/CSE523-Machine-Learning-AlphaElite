@@ -31,9 +31,8 @@ Here we have designed a product recommendation system which can provide appropri
 
 ## Features / Screenshots
 
-## E-commerce 
 # K means from scratch
-<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/scratch.JPG" width="500" height="500">
+<img src="Results/TextBasedCLustering_OnProductDescription/1.PNG">
  
 # Clusters defined based on a rating given by users
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/ratingwithproductidcluster.JPG" width="700" height="500">
