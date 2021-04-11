@@ -19,13 +19,11 @@ Here we have designed a product recommendation system which can provide appropri
 ## Technology Stack - Algorithms
 
 -kmeans
--cosine similarity
+- Cosine similarity
 
-### Libraries
+## Libraries
 - Pandas
-- Numpy
-- Matplotlib
--
+- 
 
 ## Features / Screenshots
 
