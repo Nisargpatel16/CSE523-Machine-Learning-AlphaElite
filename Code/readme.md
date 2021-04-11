@@ -11,7 +11,7 @@
 
 
 ## Clustering_RecommendationBasedOn_ProuductId_Ratings.ipynb
-- 
+- In this file we have made clustering with text data(description of product)
 
 ## Cosine_and_Jacard_Similarity.ipynb
 - 
