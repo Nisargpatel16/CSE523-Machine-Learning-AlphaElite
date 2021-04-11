@@ -19,7 +19,7 @@
 - K-means
 - Term Frequency and Inverse Document Frequency (tf-idf)
 - Single Value Decompostion
-- Features / Screenshots
+
 
 ## Introduction
 Recommendation systems enable users to access products that they may not be aware of. The two traditional recommendation techniques are content-based and collaborative filtering. While both methods have their own advantages, they also have certain disadvantages, some of which can be solved by combining both techniques to improve the quality of the recommendation. Broadly speaking, a recommendation system provides specific suggestions about items (products or actions) within a given domain, which may  interest the given active user.
