@@ -18,7 +18,7 @@ Here we have designed a product recommendation system which can provide appropri
 
 ## Technology Stack/Algorithms
 
-- Jaccars dimilarity
+- Jaccars similarity
 -  kmeans
 - Cosine similarity
 
