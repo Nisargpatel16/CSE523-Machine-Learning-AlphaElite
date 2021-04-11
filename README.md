@@ -11,6 +11,7 @@
 - Functionality
 - Technology Stack/Algorithms
 - Libraries
+- Features
 - Contributors
 
 
