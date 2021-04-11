@@ -5,10 +5,6 @@
 
 ## Table content
 
-- [Introduction](#heading)
- 
-
-   
 - Content
 - Introduction
 - Dataset
