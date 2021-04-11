@@ -5,7 +5,7 @@
 
 ## Table content
 
-- [Introduction](#sub-heading)
+- [Introduction](#heading)
  
 
    
@@ -27,7 +27,7 @@
 - Single Value Decompostion
 
 
-## Introduction
+# Introduction
 Recommendation systems enable users to access products that they may not be aware of. The two traditional recommendation techniques are content-based and collaborative filtering. While both methods have their own advantages, they also have certain disadvantages, some of which can be solved by combining both techniques to improve the quality of the recommendation. Broadly speaking, a recommendation system provides specific suggestions about items (products or actions) within a given domain, which may  interest the given active user.
 
 Product recommendation is generally a filtering system which seeks to predict, display and suggest the product to users that they would like to purchase. This type of system is utilized in a variety of fields such as news, research articles and many more.
