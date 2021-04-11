@@ -3,13 +3,13 @@
 ## Product Recommendation System
 
 ## Table content
-# Content
-# Introduction
-# Dataset
-# Functionality
-# Technology Stack/Algorithms
-# Libraries
-# Contributors
+- Content
+- Introduction
+- Dataset
+- Functionality
+- Technology Stack/Algorithms
+- Libraries
+- Contributors
 
 
 ## Content
