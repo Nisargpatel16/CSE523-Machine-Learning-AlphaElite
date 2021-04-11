@@ -23,7 +23,11 @@ Here we have designed a product recommendation system which can provide appropri
 
 ## Libraries
 - Pandas
-- 
+- Kmeans
+- MinMaxScaler
+- pyplot
+- numpy
+- TfidfVectorizer and CountVectorizer
 
 ## Features / Screenshots
 
