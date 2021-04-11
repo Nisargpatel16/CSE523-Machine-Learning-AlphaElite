@@ -1,14 +1,15 @@
 # CSE523-Machine-Learning-AlphaElite
 
-
 # E-commerce Machine-Learning
 
 
 # Table Content
-- Introduction
-- Technology Stack
-- Features / Screenshots
-- Execution Flowchart
+- Clustering
+- Cosine Similarity
+- Jaccard Similarity
+- K-means
+- Term Frequency and Inverse Document Frequency (tf-idf)
+- Single Value Decompostion
 
 ## Introduction
 
