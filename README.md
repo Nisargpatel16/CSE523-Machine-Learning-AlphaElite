@@ -1,6 +1,6 @@
 # CSE523-Machine-Learning-AlphaElite
 
-# E-commerce Machine-Learning
+# Product Recommendation System
 
 
 # Table Content
