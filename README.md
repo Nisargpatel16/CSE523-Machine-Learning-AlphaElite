@@ -16,6 +16,13 @@ Recommendation systems enable users to access products that they may not be awar
 
 Here we have designed a product recommendation system which can provide appropriate suggestions to the customers while buying another products. We are designing the system such that it suggests the item based on the ratings of all the other items and also according to their purchase history.It helps the users to make a right choice and also it makes the content more personalised.
 
+##Functionality
+We are recommending the products based on the ratings of the products given by the other customers or users in past using cosine similarity as well as jaccard similarity.
+When a new user comes to buy a product and enters a keyword to search, we are recommending the products using k-mean text clustering based on the keyword .
+We are performing clustering based on the product ID and ratings given to that particular product.
+We have performed k-means clustering from scratch without the use of inbuilt functions.
+
+
 ## Technology Stack/Algorithms
 
 - Jaccards similarity
@@ -45,7 +52,7 @@ Here we have designed a product recommendation system which can provide appropri
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/Similarity/jaccard.png" width="500" height="300">
 
 # Cosine similarity
-<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/Similarity/cosine.png" width="600" height="300">
+<img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/Similarity/cosine.png" width="400" height="300">
 
 ## Contributors
 
