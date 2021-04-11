@@ -32,7 +32,7 @@ Here we have designed a product recommendation system which can provide appropri
 ## Features / Screenshots
 
 # K means from scratch
-<img src="Results/TextBasedCLustering_OnProductDescription/1.PNG">
+<img src="Results/TextBasedCLustering_OnProductDescription/1.PNG" width="500" height="500">
  
 # Clusters defined based on a rating given by users
 <img src="https://github.com/Nisargpatel16/CSE523-Machine-Learning-AlphaElite/blob/main/Results/CLustering_ProductID_Ratings/1.PNG" width="700" height="500">
