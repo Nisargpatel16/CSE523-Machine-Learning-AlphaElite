@@ -92,3 +92,4 @@ Here we have designed a product recommendation system which can provide appropri
 | [Nisarg Patel](https://github.com/Nisargpatel16)                                                                                                            
 | [Shivam Lakhtariya](https://github.com/shivamlakhtariya)     
 | [Vismay Patel](https://github.com/Vismay1710)
+| [Priyanshi Shah](https://github.com/Pri-2610)
